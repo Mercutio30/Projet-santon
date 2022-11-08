@@ -1,0 +1,85 @@
+#content 
+{
+    text-align: justify;
+}
+
+#imgQ
+{
+    height: 90%;
+    width: 100%;
+        border-color:#F4B67E ;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+
+}
+.navbar-nav>li {
+    float: initial;
+}
+.nav>li {
+    display:inline-block;
+}
+
+.colorbg {
+    background-color:#F4B67E ;
+    border-color:#F4B67E ;
+}
+
+h2 {font-family: 'Dancing Script', cursive;}
+
+#navi{ 
+    position: sticky;
+}
+
+footer {
+    background-color: #F4B67E;
+}
+
+.icon 
+{
+    height: 48px;
+    width: 48px;
+}
+
+.iconft 
+{
+    height: 24px;
+    width: 24px;
+}
+
+.sech 
+{
+    height: 18px;
+    width: 18px;
+}
+
+.call-to-action {
+    background: linear-gradient(145deg,#f81f01,#ee076e);
+    position: relative;
+    z-index: 2;
+}
+
+.ptb--180 {
+    padding: 180px 0;
+}
+.bg_image--30 {
+    background-image: url(https://zupimages.net/up/22/42/rudy.png)!important;
+}
+
+.bg_image {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.jeton {
+    width: 350px;
+    height: 350px;
+}
+
+#TQ
+{
+    font-family: 'Dancing Script', cursive;
+}
